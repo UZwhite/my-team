@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mt__sect1 {
+  width: 1440px;
+  height: 700px;
+  background-color: #014e56;
+  margin: auto;
+}
+.mt__sect1 .mt__logo {
+  padding-top: 77px;
+  margin-right: 1115px;
+  margin-left: 165px;
+  color: #ffffff;
+}
+.mt__sect1 .mt__home {
+  font-family: "Livvic", sans-serif;
+  height: 28px;
+  width: 49px;
+  padding-bottom: 589px;
+  padding-left: 405px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  color: #FFFFFF;
+}
+.mt__sect1 .mt__about {
+  font-family: "Livvic", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 589px;
+}/*# sourceMappingURL=style.css.map */
